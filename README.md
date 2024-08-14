@@ -1,5 +1,5 @@
 # Thiago Mastrangelo
 
-![Meme](/images/MEME.jpg)
+![Meme](/images/MEMES.jpg)
 
 ##Rocket League
